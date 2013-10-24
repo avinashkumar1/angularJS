@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en" ng-app = "phonecatApp">
+<head>
+
+  <meta charset="utf-8">
+  <title>Google Phone Gallery with Require.JS</title>
+  <link rel="stylesheet" href="css/app.css">
+  <link rel="stylesheet" href="css/bootstrap.css">
+  <link rel="stylesheet" href="css/animations.css">
+
+</head>
+
+<body>	
+	<div ng-view></div>
+  <script data-main="js/main" src="lib/require/require.js"></script>		
+</body>
+</html>

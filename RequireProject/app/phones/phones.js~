@@ -1,0 +1,13 @@
+[
+				{'name': 'Nexus S',
+				 'age':10,
+				 'snippet': 'Fast just got faster with Nexus S.'},
+
+				{'name': 'Motorola XOOM™ with Wi-Fi',
+				 'age':5,
+				 'snippet': 'The Next, Next Generation tablet.'},
+
+				{'name': 'MOTOROLA XOOM™',
+				 'age':20,
+				 'snippet': 'The Next, Next Generation tablet.'}
+];
